@@ -9,4 +9,5 @@ smartvoting: Mobile application
 
 smart_voting.sql: Database
 
+# Major functionalities of the system
 
