@@ -1,4 +1,10 @@
 # Smart-Vote
-Smart Voting System
+Project: Smart Voting System
 
-Link: https://github.com/mnkokila/Smart-Vote.git
+Project link: https://github.com/mnkokila/Smart-Vote.git
+
+smart_voting: Web application
+smartvoting: Mobile application
+smart_voting.sql: Database
+
+
